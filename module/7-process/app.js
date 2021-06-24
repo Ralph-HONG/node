@@ -6,3 +6,4 @@ const interval = setInterval(() => {
 setTimeout(() => {
 	console.log()
 });
+
